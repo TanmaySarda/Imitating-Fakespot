@@ -1,0 +1,8 @@
+spacy
+numpy 
+pandas
+scikit-learn
+torch
+nlp
+wordcloud
+matplotlib
